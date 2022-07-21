@@ -1,0 +1,7 @@
+report
+node_modules
+screenshots
+videos
+reports
+package-lock.json
+cypress/screenshots

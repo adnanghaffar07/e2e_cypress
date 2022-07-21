@@ -1,0 +1,13 @@
+{
+  "video": true,
+  "trashAssetsBeforeRuns": true,
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false,
+  "videoUploadOnPasses": false,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "defaultCommandTimeout": 60000,
+  "env": {
+    "appurl": "http://54.218.163.142"
+  }
+}

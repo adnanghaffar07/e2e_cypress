@@ -1,0 +1,21 @@
+{
+    "input_pin" : "input[type='password']",
+    "btn_submit" : "button[type='submit']",
+    "signup_with_email_button" : ".ant-card-body>* img[alt='email']",
+    "input_email" : "input[name='email']",
+    "input_password" : "input[name='password']",
+    "modal": ".ant-modal-content",
+    "menuProfile" : ".ant-popover-inner-content",
+    "firstInstrument" : ".css-uu3hm",
+    "instrumentDetailPage" : ".ant-card-body",
+    "btnInvestNow" : "button.css-fwnwry",
+    "signInModal" : ".ant-modal-root",
+    "btnCloseModal" : ".ant-modal-root>* .ant-modal-close-x",
+    "btnWatchList" : "[data-testid='WatchlistSelect']",
+    "overViewTab" : ".recharts-surface",
+    "returnTabDetails" : "[data-testid='add-ticker']",
+    "btnWatchListText" : "[data-testid='WatchlistSelect']> .css-11bv2xo",
+    "inputShares" : "input[name='shares']",
+    "inputAmount" : "input[name='amount']",
+    "dashboardStock" : ".css-g1mf0g.ejmjp4a3>* .css-12oea1u"
+}
